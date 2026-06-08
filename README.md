@@ -1,20 +1,17 @@
 
-
-
-
 <div align="center">
 
 <!-- Dark Cyber Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a148c,100:7c43bd&height=260&section=header&text=BugTriage%20AI&fontSize=55&fontColor=e0e0e0&animation=fadeIn&fontAlignY=30&desc=Intelligent%20Bug%20Triage%20Powered%20by%20AI&descAlignY=55&descSize=16&descColor=b39ddb" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d004d,100:5a189a&height=300&section=header&text=BugTriage%20AI&fontSize=55&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Intelligent%20Bug%20Triage%20Powered%20by%20AI&descAlignY=60&descSize=16&descColor=b39ddb" width="100%" />
 
-<!-- Villainess Cyber Girl Mascot (Emoji Style) -->
-<img src="https://kimi-web-img.moonshot.cn/img/thumbs.dreamstime.com/1a98fdbd11bd3ae2fdd7e6664a1be2e5828da9e8.jpg" width="200" height="200" style="border-radius: 50%; border: 4px solid #7c43bd; box-shadow: 0 0 40px #7c43bd, 0 0 80px rgba(124,67,189,0.4); margin-top: -80px; position: relative; z-index: 10; object-fit: cover;" alt="BugTriage AI Mascot" />
+<!-- Crazy Cyberpunk Skull Girl Mascot — OVER the header -->
+<img src="https://kimi-web-img.moonshot.cn/img/img.freepik.com/2e798e190b99c85f9674bbad71e28830ead6951f.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #39ff14; box-shadow: 0 0 50px #39ff14, 0 0 100px rgba(57,255,20,0.5), 0 0 150px rgba(57,255,20,0.3); margin-top: -110px; position: relative; z-index: 999; object-fit: cover;" alt="BugTriage AI Mascot" />
 
-<br/>
+<br/><br/>
 
 <!-- Animated Typing Badge -->
 <a href="https://bug-triage-ai-alpha.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=500&lines=Multi-Role+Triage+Workspace;AI-Powered+Bug+Analysis;Zero-Database+Architecture;Real-Time+Team+Assignment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Multi-Role+Triage+Workspace;AI-Powered+Bug+Analysis;Zero-Database+Architecture;Real-Time+Team+Assignment" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,13 +19,13 @@
 <!-- Status Badges -->
 <p>
   <a href="https://bug-triage-ai-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗%20Live%20Demo-bug--triage--ai--alpha.vercel.app-7c43bd?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0a2e" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🔗%20Live%20Demo-bug--triage--ai--alpha.vercel.app-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0221" alt="Live Demo" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/⚡%20Status-Online%20%7C%20Production-00e676?style=for-the-badge&labelColor=1a0a2e" alt="Status" />
+    <img src="https://img.shields.io/badge/⚡%20Status-Online%20%7C%20Production-39ff14?style=for-the-badge&labelColor=0d0221" alt="Status" />
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/📜%20License-MIT-ffd700?style=for-the-badge&labelColor=1a0a2e" alt="License" />
+    <img src="https://img.shields.io/badge/📜%20License-MIT-ff0055?style=for-the-badge&labelColor=0d0221" alt="License" />
   </a>
 </p>
 
@@ -38,7 +35,7 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Claude%20%7C%20Groq-7c43bd?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Claude%20%7C%20Groq-5a189a?logo=openai&logoColor=white&style=flat-square" />
 </p>
 
 </div>
@@ -117,8 +114,8 @@ graph LR
     D --> E[Role Dashboard]
     E --> F[Export JSON/CSV]
     
-    style B fill:#7c43bd,stroke:#4a148c,stroke-width:2px,color:#fff
-    style C fill:#4a148c,stroke:#7c43bd,stroke-width:2px,color:#fff
+    style B fill:#5a189a,stroke:#39ff14,stroke-width:2px,color:#fff
+    style C fill:#2d004d,stroke:#5a189a,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -198,15 +195,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 <!-- Dark Cyber Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c43bd,50:4a148c,100:1a0a2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:2d004d,100:0d0221&height=120&section=footer" width="100%" />
 
 <p>
-  <b>Built with ❤️ by <a href="https://github.com/Nithisvaran-M" style="color:#b39ddb;">Nithisvaran M</a></b>
+  <b>Built with ❤️ by <a href="https://github.com/Nithisvaran-M" style="color:#39ff14;">Nithisvaran M</a></b>
 </p>
 
 <p>
   <a href="https://bug-triage-ai-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Try%20It%20Live-bug--triage--ai--alpha.vercel.app-7c43bd?style=for-the-badge&labelColor=1a0a2e" />
+    <img src="https://img.shields.io/badge/🌐%20Try%20It%20Live-bug--triage--ai--alpha.vercel.app-39ff14?style=for-the-badge&labelColor=0d0221" />
   </a>
 </p>
 
@@ -215,3 +212,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+e waving header** like a villainess queen overlooking her domain! 🖤💀💚
