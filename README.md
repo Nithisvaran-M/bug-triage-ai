@@ -10,11 +10,20 @@
 </div>
 
 <p align="center">
+  <a href="https://bug-triage-ai-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF003C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
+  </a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/AI-FF003C?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/Session_Storage-7928CA?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a0b2e" />
+</p>
+
+<p align="center">
+  <a href="https://bug-triage-ai-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔥_Try_It_Now_→_bug--triage--ai--alpha.vercel.app-FF003C?style=for-the-badge&labelColor=0d0221" />
+  </a>
 </p>
 
 ---
@@ -114,7 +123,12 @@ flowchart LR
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Live Demo & Quick Start
+
+### 🔥 Try It Live
+**[https://bug-triage-ai-alpha.vercel.app/](https://bug-triage-ai-alpha.vercel.app/)**
+
+### 🛠️ Local Development
 
 ```bash
 # Clone the repository
@@ -169,9 +183,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
+  <a href="https://bug-triage-ai-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Launch_Live_Demo-FF003C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a31,50:1a0b2e,100:0d0221&height=100&section=footer&animation=fadeIn"/>
 </p>
 ```
-
----
 
