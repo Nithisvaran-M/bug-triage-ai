@@ -4,7 +4,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=🐛%20BugTriage%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intelligent%20Bug%20Triage%20Powered%20by%20AI&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/1105cb1b-add3-468e-9a76-5531f05ecbbd" />
+%20BugTriage%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intelligent%20Bug%20Triage%20Powered%20by%20AI&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Animated Typing Badge -->
 <a href="https://bug-triage-ai-alpha.vercel.app/">
